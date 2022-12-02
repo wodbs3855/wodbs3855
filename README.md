@@ -15,7 +15,7 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodbs3855&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodbs3855&show_icons=true&theme=solarized-light)
 
 
 ### Hi there 👋
