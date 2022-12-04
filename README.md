@@ -26,7 +26,7 @@
 ### I'M a developer
 
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj={wodbs3855})](https://solved.ac/{wodbs3855})
+[![Solved.acProfile](http://mazassumnida.wtf/api/v2/generate_badge?boj={wodbs3855})](https://solved.ac/{wodbs3855})
 
 
 <!--
