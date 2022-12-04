@@ -30,14 +30,13 @@
 
 ### I'M a developer
 
-
+<p>
 
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodbs3855)](https://solved.ac/{wodbs3855}) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodbs3855&langs_count=8)](https://github.com/wodbs3855/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodbs3855&layout=compact)](https://github.com/wodbs3855/github-readme-stats)
 
-
+ </p>
 
 <!--
 **wodbs3855/wodbs3855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
