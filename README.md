@@ -1,4 +1,9 @@
 ### Techs that I've used at least once
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20JaeYoon&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+
+
+
 <p>
 
  
@@ -28,10 +33,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodbs3855)](https://solved.ac/{wodbs3855})
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm%20JaeYoon&fontSize=90)
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20JaeYoon&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodbs3855&layout=compact)](https://github.com/wodbs3855/github-readme-stats)
 
 <!--
 **wodbs3855/wodbs3855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
