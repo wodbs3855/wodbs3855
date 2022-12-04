@@ -28,6 +28,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodbs3855)](https://solved.ac/{wodbs3855})
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 
 <!--
 **wodbs3855/wodbs3855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
