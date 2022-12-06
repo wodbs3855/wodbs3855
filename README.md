@@ -35,7 +35,7 @@
 
 <p>
 
- [![Solved.ac
+ //[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodbs3855)](https://solved.ac/{wodbs3855}) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodbs3855&layout=compact)](https://github.com/wodbs3855/github-readme-stats)
 
