@@ -52,7 +52,7 @@ So I am learning C and Unreal Engine 🙏 <br>
 
 ## My github stats! ✍
 
-<div align = center>
+<div>
  
  <br>
  
