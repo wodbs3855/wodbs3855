@@ -8,7 +8,8 @@ I'm interested in the game 🐈‍ <br>
 So I am learning C and Unreal Engine 🙏 <br>
  
 
-### 📔 Techs that I've used at least once 📙
+## 📔 Techs that I've used at least once 📙
+<br>
 
 <div align=center> 
 <p>
@@ -30,34 +31,43 @@ So I am learning C and Unreal Engine 🙏 <br>
  
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwodbs3855&count_bg=%23B6A9E2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
+
+<hr>
+
+<br>
 
 
+## contact me 📞
 
+<br>
+<div align=center>
+ 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/wodbs3855/)](https://github.com/wodbs3855/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wodbs3855@naver.com)](mailto:wodbs3855@naver.com)
+ 
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodbs3855&show_icons=true&theme=buefy)
+<br>
 
+## My github stats! ✍
 
-### I'M a developer
+<div align = center>
+ 
+ <br>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodbs3855&show_icons=true&theme=buefy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodbs3855&layout=compact)](https://github.com/wodbs3855/github-readme-stats)
 
-<p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodbs3855&layout=compact)](https://github.com/wodbs3855/github-readme-stats)
-
- </p>
+</div>
+ 
+ <br>
  
 
-<!--
-**wodbs3855/wodbs3855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Visit 🚶
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwodbs3855&count_bg=%23B6A9E2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+ 
